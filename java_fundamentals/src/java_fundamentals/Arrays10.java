@@ -15,8 +15,6 @@ public class Main {
                 result[index++] = arr[i];
             }
         }
-
-        // Print result
         System.out.println("Output: " + Arrays.toString(result));
     }
 }
