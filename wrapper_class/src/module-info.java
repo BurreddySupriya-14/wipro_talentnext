@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module wrapper_class {
-}
